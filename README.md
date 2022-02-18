@@ -1,4 +1,4 @@
-# voltimetro-arduino-blynk
+# Voltimeter ZMPT101B - NodeMCU-12E - Blynk.io
 Simple project to test Voltimeter ZMPT101B with NodeMCU-12E and Blynk.io
 
 
